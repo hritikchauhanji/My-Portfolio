@@ -9,31 +9,31 @@ const projects = [
     {
         name: "Learning Platform",
         align: "right",
-        image: "../../public/images/website-img-1.jpg",
+        image: "images/website-img-1.jpg",
         link: "https://learning-platform-latest.onrender.com/",
     },
     {
         name: "Room Based Chat Application",
         align: "left",
-        image: "../../public/images/website-img-2.webp",
+        image: "images/website-img-2.webp",
         link: "https://chatappdocker.netlify.app/",
     },
     {
         name: "Campus flow (Student Management System)",
         align: "right",
-        image: "../../public/images/website-img-3.jpg",
+        image: "images/website-img-3.jpg",
         link: "#",
     },
     {
         name: "enotes",
         align: "left",
-        image: "../../public/images/website-img-4.jpg",
+        image: "images/website-img-4.jpg",
         link: "#",
     },
     {
         name: "Ecommerce website",
-        align: "left",
-        image: "../../public/images/website-img-4.jpg",
+        align: "right",
+        image: "images/website-img-4.jpg",
         link: "#",
     },
 ];
