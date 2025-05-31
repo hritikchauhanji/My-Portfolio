@@ -12,7 +12,7 @@ function HeroPic() {
             viewport={{ once: false, amount: 0 }}
             id='heroPic'
             className='flex items-center justify-center mt-10'>
-            <img src="../../public/images/Hritik_Chauhan.png" alt="Hero" className='max-h-[400px] w-auto' />
+            <img src="images/Hritik_Chauhan.png" alt="Hero" className='max-h-[400px] w-auto' />
             <div className=" absolute -z-10 flex justify-center items-center animate-pulse ">
                 <PiHexagonThin className=" md:h-[90%] sm:h-[120%] min-h-[600px] w-auto text-cyan blur-md animate-[spin_20s_linear_infinite] " />
             </div>
